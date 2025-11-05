@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "andrewmcodes.tailwindcss-extension-pack",
+    "sidharthachatterjee.vscode-tailwindcss",
+    "kalimahapps.tailwind-config-viewer",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
